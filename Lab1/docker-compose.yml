@@ -1,0 +1,18 @@
+services:
+  postgres:
+    build:
+      context: .
+    image: "postgres"
+    container_name: ${PG_CONTAINER_NAME}
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    volumes:
+      - ./migrations/migrations.sql:/docker-entrypoint-initdb.d/20230831073740_setup.up.sql
+      - ./data/airlines.csv:/docker-entrypoint-initdb.d/airlines.csv
+      - ./data/airports.csv:/docker-entrypoint-initdb.d/airports.csv
+      - ./data/small.csv:/docker-entrypoint-initdb.d/small.csv
+    ports:
+      - "5432:5432"
+    restart: unless-stopped

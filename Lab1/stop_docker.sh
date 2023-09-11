@@ -1,0 +1,1 @@
+sudo docker stop mopr_lab_1 && sudo docker rm mopr_lab_1
