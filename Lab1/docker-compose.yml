@@ -1,8 +1,8 @@
 services:
-  postgres:
+  citus:
     build:
       context: .
-    image: "postgres"
+    image: "citusdata/citus"
     container_name: ${PG_CONTAINER_NAME}
     environment:
       POSTGRES_DB: ${POSTGRES_DB}
@@ -12,7 +12,7 @@ services:
       - ./migrations/migrations.sql:/docker-entrypoint-initdb.d/20230831073740_setup.up.sql
       - ./data/airlines.csv:/docker-entrypoint-initdb.d/airlines.csv
       - ./data/airports.csv:/docker-entrypoint-initdb.d/airports.csv
-      - ./data/small.csv:/docker-entrypoint-initdb.d/small.csv
+      - ./data/flights.csv:/docker-entrypoint-initdb.d/flights.csv
     ports:
       - "5432:5432"
     restart: unless-stopped

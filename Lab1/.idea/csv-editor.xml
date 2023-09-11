@@ -3,21 +3,21 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="/airlines.csv">
+        <entry key="/data/airports.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/airports.csv">
+        <entry key="/data/flights.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/small.csv">
+        <entry key="/data/small.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

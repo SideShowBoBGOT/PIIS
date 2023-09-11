@@ -55,5 +55,5 @@ CREATE TABLE IF NOT EXISTS flights (
 
 COPY airlines(iata_code, airline) FROM '/docker-entrypoint-initdb.d/airlines.csv' DELIMITER ',' CSV HEADER;
 COPY airports(iata_code, airport, city, state, country, latitude, longitude) FROM '/docker-entrypoint-initdb.d/airports.csv' DELIMITER ',' CSV HEADER;
-COPY flights(year, month, day, day_of_week, fl_date, carrier, tail_num, fl_num, origin, dest, crs_dep_time, dep_time, dep_delay, taxi_out, wheels_off, wheels_on, taxi_in, crs_arr_time, arr_time, arr_delay, cancelled, cancellation_code, diverted, crs_elapsed_time, actual_elapsed_time, air_time, distance, carrier_delay, weather_delay, nas_delay, security_delay, late_aircraft_delay) FROM '/docker-entrypoint-initdb.d/small.csv' DELIMITER ',' CSV HEADER;
+COPY flights(year, month, day, day_of_week, fl_date, carrier, tail_num, fl_num, origin, dest, crs_dep_time, dep_time, dep_delay, taxi_out, wheels_off, wheels_on, taxi_in, crs_arr_time, arr_time, arr_delay, cancelled, cancellation_code, diverted, crs_elapsed_time, actual_elapsed_time, air_time, distance, carrier_delay, weather_delay, nas_delay, security_delay, late_aircraft_delay) FROM '/docker-entrypoint-initdb.d/flights.csv' DELIMITER ',' CSV HEADER;
 
