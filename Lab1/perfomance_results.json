@@ -1,0 +1,39 @@
+{
+  "results": [
+    {
+      "func": "total_delay_by_cities",
+      "millis": {
+        "column_based": 33.81,
+        "row_based": 29.78
+      }
+    },
+    {
+      "func": "total_flights_by_cities",
+      "millis": {
+        "column_based": 32.4,
+        "row_based": 24.93
+      }
+    },
+    {
+      "func": "min_delay_by_cities",
+      "millis": {
+        "column_based": 32.09,
+        "row_based": 27.85
+      }
+    },
+    {
+      "func": "max_delay_by_cities",
+      "millis": {
+        "column_based": 31.95,
+        "row_based": 27.7
+      }
+    },
+    {
+      "func": "total_flights_by_cities",
+      "millis": {
+        "column_based": 32.97,
+        "row_based": 25.94
+      }
+    }
+  ]
+}

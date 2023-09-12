@@ -1,0 +1,10 @@
+/home/sideshowbobgot/university/MethodsOfOptimizationAndDecisionMaking/Lab1/target/debug/deps/idna-c4c473cbbe4f3dfb.rmeta: /home/sideshowbobgot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/lib.rs /home/sideshowbobgot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/punycode.rs /home/sideshowbobgot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46.rs /home/sideshowbobgot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46_mapping_table.rs
+
+/home/sideshowbobgot/university/MethodsOfOptimizationAndDecisionMaking/Lab1/target/debug/deps/libidna-c4c473cbbe4f3dfb.rlib: /home/sideshowbobgot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/lib.rs /home/sideshowbobgot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/punycode.rs /home/sideshowbobgot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46.rs /home/sideshowbobgot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46_mapping_table.rs
+
+/home/sideshowbobgot/university/MethodsOfOptimizationAndDecisionMaking/Lab1/target/debug/deps/idna-c4c473cbbe4f3dfb.d: /home/sideshowbobgot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/lib.rs /home/sideshowbobgot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/punycode.rs /home/sideshowbobgot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46.rs /home/sideshowbobgot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46_mapping_table.rs
+
+/home/sideshowbobgot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/lib.rs:
+/home/sideshowbobgot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/punycode.rs:
+/home/sideshowbobgot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46.rs:
+/home/sideshowbobgot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46_mapping_table.rs:

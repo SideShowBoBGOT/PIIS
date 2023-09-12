@@ -1,0 +1,1 @@
+cargo run > perfomance_results.json
