@@ -9,20 +9,21 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.remote.webelement import WebElement
 from webdriver_manager.chrome import ChromeDriverManager
 
-notebook_path = '/home/choleraplague/university/PIIS/Lab2/'
+notebook_path = '/home/sideshowbobgot/university/PIIS/Lab2/'
 notebook_name = 'lab2'
 out_name = u'Панченко_Сергій_ІП-11_2.odt'
 front_path = u'front.odt'
 back_path = u'back.odt'
-
+driver_path = '/home/sideshowbobgot/university/chromedriver'
 
 def driver_factory() -> webdriver.Chrome:
     options = Options()
     options.add_argument("--headless")
     options.add_argument("--window-size=850,1440")
+    options.add_argument("--remote-debugging-port=9230")
     options.add_experimental_option('detach', True)
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()),
-                              options=options)
+    service = Service(driver_path)
+    driver = webdriver.Chrome(service=service, options=options)
     return driver
 
 class JpHtmlClasses(Enum):
