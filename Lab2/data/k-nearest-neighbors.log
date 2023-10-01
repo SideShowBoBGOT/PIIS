@@ -1,0 +1,17 @@
+[{
+  "data": "[NbConvertApp] Converting notebook script.ipynb to html\n",
+  "stream_name": "stderr",
+  "time": 9.282014771000831
+},{
+  "data": "[NbConvertApp] Executing notebook with kernel: python3\n",
+  "stream_name": "stderr",
+  "time": 14.337218481996388
+},{
+  "data": "[NbConvertApp] Support files will be in __results___files/\n[NbConvertApp] Making directory __results___files\n",
+  "stream_name": "stderr",
+  "time": 18.052204981002433
+},{
+  "data": "[NbConvertApp] Making directory __results___files\n[NbConvertApp] Writing 310126 bytes to __results__.html\n",
+  "stream_name": "stderr",
+  "time": 18.091000178996183
+}]
