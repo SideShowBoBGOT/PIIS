@@ -10,8 +10,8 @@ from selenium.webdriver.remote.webelement import WebElement
 from webdriver_manager.chrome import ChromeDriverManager
 
 notebook_path = '/home/sideshowbobgot/university/PIIS/Lab2/'
-notebook_name = 'lab2_3'
-out_name = u'Панченко_Сергій_ІП-11_2_3.odt'
+notebook_name = 'lab2_4'
+out_name = u'Панченко_Сергій_ІП-11_2_4.odt'
 front_path = u'front.odt'
 back_path = u'back.odt'
 driver_path = '/home/sideshowbobgot/university/chromedriver'
