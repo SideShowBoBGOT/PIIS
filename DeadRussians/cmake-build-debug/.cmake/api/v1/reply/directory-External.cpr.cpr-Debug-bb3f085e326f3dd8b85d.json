@@ -1,0 +1,60 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"External/cpr/cpr/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 81,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"External/cpr/cpr/libcpr.so.1.11.0",
+				"External/cpr/cpr/libcpr.so.1"
+			],
+			"targetId" : "cpr::@23c598f0958a971d9012",
+			"targetIndex" : 1,
+			"targetInstallNamelink" : "skip",
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"External/cpr/cpr/libcpr.so"
+			],
+			"targetId" : "cpr::@23c598f0958a971d9012",
+			"targetIndex" : 1,
+			"targetInstallNamelink" : "only",
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "External/cpr/cpr",
+		"source" : "External/cpr/cpr"
+	}
+}

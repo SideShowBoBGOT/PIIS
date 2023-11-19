@@ -1,0 +1,3 @@
+[submodule "DeadRussians/External/cpr"]
+	path = DeadRussians/External/cpr
+	url = https://github.com/libcpr/cpr

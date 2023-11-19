@@ -1,0 +1,21 @@
+# ninja log v5
+0	4	1700385903888431871	curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	e023bde493a74a12
+0	4	1700385903888431871	/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	e023bde493a74a12
+4	1874	1700385905756410252	curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	fb769f28b9be8860
+4	1874	1700385905756410252	/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	fb769f28b9be8860
+1874	1877	1700385905760410206	curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	6f50501691302149
+1874	1877	1700385905760410206	/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	6f50501691302149
+1877	1880	1700385905764410160	curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	61513a2254ed5a9f
+1877	1880	1700385905764410160	/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	61513a2254ed5a9f
+1880	1883	1700385905768410114	curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	bb4ee952618f33d7
+1880	1883	1700385905768410114	/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	bb4ee952618f33d7
+1883	1887	1700385905772410067	curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	26e837262b49b265
+1883	1887	1700385905772410067	/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	26e837262b49b265
+1888	1891	1700385905776410021	curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	7b39e8970dece5e5
+1888	1891	1700385905776410021	/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	7b39e8970dece5e5
+1891	1894	1700385905776410021	curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	2f8e35abc1fbdc7a
+1891	1894	1700385905776410021	/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	2f8e35abc1fbdc7a
+1894	1899	1700385905784409929	CMakeFiles/curl-populate-complete	5a9434dbd847f24f
+1894	1899	1700385905784409929	curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	5a9434dbd847f24f
+1894	1899	1700385905784409929	/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate-complete	5a9434dbd847f24f
+1894	1899	1700385905784409929	/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	5a9434dbd847f24f

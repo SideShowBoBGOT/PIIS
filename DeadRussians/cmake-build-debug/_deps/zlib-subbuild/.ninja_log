@@ -1,0 +1,21 @@
+# ninja log v5
+0	4	1700385895700526792	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-mkdir	7d91d5d4f0dcc4ea
+0	4	1700385895700526792	/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-mkdir	7d91d5d4f0dcc4ea
+4	4758	1700385900452471671	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-download	30436e3e5a2b0ee2
+4	4758	1700385900452471671	/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-download	30436e3e5a2b0ee2
+4758	4769	0	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-update	29b85ea8deab7763
+4758	4769	0	/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-update	29b85ea8deab7763
+4769	4772	1700385900468471485	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-patch	5616e5583a143d56
+4769	4772	1700385900468471485	/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-patch	5616e5583a143d56
+4772	4776	1700385900468471485	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-configure	f9a94ec7e8e33de4
+4772	4776	1700385900468471485	/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-configure	f9a94ec7e8e33de4
+4776	4779	1700385900472471439	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-build	f07aeb1d69ded14f
+4776	4779	1700385900472471439	/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-build	f07aeb1d69ded14f
+4779	4782	1700385900476471393	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-install	b6000166637e2005
+4779	4782	1700385900476471393	/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-install	b6000166637e2005
+4782	4786	1700385900480471346	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-test	6f687377bc7c280
+4782	4786	1700385900480471346	/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-test	6f687377bc7c280
+4786	4790	1700385900484471300	CMakeFiles/zlib-populate-complete	9aa634b5e1948bf3
+4786	4790	1700385900484471300	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-done	9aa634b5e1948bf3
+4786	4790	1700385900484471300	/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/zlib-subbuild/CMakeFiles/zlib-populate-complete	9aa634b5e1948bf3
+4786	4790	1700385900484471300	/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-done	9aa634b5e1948bf3

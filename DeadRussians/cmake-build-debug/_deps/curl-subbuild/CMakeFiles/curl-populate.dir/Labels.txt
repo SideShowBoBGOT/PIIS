@@ -1,0 +1,14 @@
+# Target labels
+ curl-populate
+# Source files and their labels
+/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate
+/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate.rule
+/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate-complete.rule
+/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-build.rule
+/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure.rule
+/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-download.rule
+/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-install.rule
+/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir.rule
+/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch.rule
+/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-test.rule
+/home/sideshowbobgot/university/PIIS/DeadRussians/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-update.rule
